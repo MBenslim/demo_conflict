@@ -5,7 +5,7 @@ echo "1) Café"
 echo "2) Thé"
 echo "3) Chocolat chaud"
 echo "4) Eau"
-echo "5) Jus d'orange"
+echo "5) Jus de pomme
 
 read -p "Votre choix : " choix
 
